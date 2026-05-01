@@ -51,7 +51,7 @@ Use [Conventional Commits](https://www.conventionalcommits.org/):
 ## Development Setup
 
 ```bash
-git clone https://github.com/<your-username>/nlp-medical-classification.git
+git clone https://github.com/Rishijain411/nlp-medical-classification.git
 cd nlp-medical-classification
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm

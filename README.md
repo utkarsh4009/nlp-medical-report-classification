@@ -49,7 +49,7 @@ nlp-medical-classification/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/nlp-medical-classification.git
+git clone https://github.com/Rishijain411/nlp-medical-classification.git
 cd nlp-medical-classification
 ```
 
@@ -182,8 +182,9 @@ The pipeline is structured into **4 distinct phases**:
 
 | | |
 |--|--|
-| **Name** | Rishi |
+| **Name** | Rishi Jain |
 | **Roll No.** | 23BLC1242 |
+| **GitHub** | [@Rishijain411](https://github.com/Rishijain411) |
 | **Course** | Natural Language Processing |
 
 ---
@@ -197,7 +198,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](../../issues).
+Feel free to check the [issues page](https://github.com/Rishijain411/nlp-medical-classification/issues).
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
