@@ -184,7 +184,7 @@ The pipeline is structured into **4 distinct phases**:
 |--|--|
 | **Name** | Utkarsh Jaiswal |
 | **Roll No.** | 23BLC1255 |
-| **GitHub** | [@Rishijain411](https://github.com/utkarsh4009) |
+| **GitHub** | [@utkarsh4009](https://github.com/utkarsh4009) |
 
 ---
 
