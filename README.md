@@ -182,18 +182,12 @@ The pipeline is structured into **4 distinct phases**:
 
 | | |
 |--|--|
-| **Name** | Rishi Jain |
-| **Roll No.** | 23BLC1242 |
-| **GitHub** | [@Rishijain411](https://github.com/Rishijain411) |
-| **Course** | Natural Language Processing |
+| **Name** | Utkarsh Jaiswal |
+| **Roll No.** | 23BLC1255 |
+| **GitHub** | [@Rishijain411](https://github.com/utkarsh4009) |
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Contributing
 
